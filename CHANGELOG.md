@@ -1,4 +1,4 @@
-## [1.3.1](https://github.com/ReVanced/revanced-integrations/compare/v1.3.0...v1.3.1) (2024-02-07)
+## [1.3.3](https://github.com/ReVanced/revanced-integrations/compare/v1.3.0...v1.3.1) (2024-02-07)
 
 
 ### Bug Fixes
